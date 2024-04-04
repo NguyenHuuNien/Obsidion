@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "6f356649877449ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e0e25a9fe270a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f14f92a8cc7f4de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Coroutine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1d84005bd0809a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英語/Giữa kỳ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1a31e3b4f861eb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Game_LongTrai/CongViecCanLam.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd643a1d5eaf0812",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e267c3024b36cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00adb564e79df920",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3246a281a1a45fc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "856a5bbe4d9f2b3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "e0473b86fcd83b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c62a679599de4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64850c84ca6ed18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "英語/Giữa kỳ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0541dbf70bb009da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "英語/Giữa kỳ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "371c2342ad04ee4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec00d49ea583fe1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "英語/Giữa kỳ.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "e1d84005bd0809a8",
+  "lastOpenFiles": [
+    "Unity/Coroutine.md",
+    "Game_LongTrai/CongViecCanLam.md",
+    "Unity/Event Action.md",
+    "英語/Giữa kỳ.md",
+    "日記/03-04-2024.md",
+    "英語/Từ mới.md",
+    "Kinh Dịch/Lục thú.md",
+    "Kinh Dịch/Vòng trường sinh.md",
+    "Kinh Dịch/Các bước luận quẻ.md",
+    "英語/BTVN Unit 1.md",
+    "日本語/その他/言葉を練習する.md",
+    "英語/Mattome.md",
+    "Game_LongTrai/Documention.md",
+    "日本語/その他/TỔNG HỢP NGỮ PHÁP N4.md",
+    "日本語/300新し言葉/体：からだ.md",
+    "英語/P2 bunka to nihonjin.md",
+    "HTML-CSS/CSS Position.md",
+    "HTML-CSS/CSS pseudo-elements.md",
+    "HTML-CSS/CSS pseudo-classes.md",
+    "HTML-CSS/Attribute.md",
+    "HTML-CSS/CSS.md",
+    "英語/Unit 4.md",
+    "HTML-CSS/Các thẻ thông dụng.md",
+    "HTML-CSS",
+    "英語/Từ Vựng.md",
+    "日記/29-03-2024.md",
+    "英語/Unit5.md",
+    "写真/Pasted image 20240329133345.png",
+    "Game_LongTrai",
+    "写真/Pasted image 20240325140221.png",
+    "写真/Pasted image 20240325083120.png",
+    "日本語/耳から覚える/文法",
+    "日本語/耳から覚える/言葉",
+    "日本語/耳から覚える",
+    "日記/20/03",
+    "日記/20",
+    "日記",
+    "日本語/新し言葉/体　からだ",
+    "日本語/その他",
+    "Chưa đặt tên.canvas",
+    "写真/Pasted image 20240311173512.png",
+    "Pasted image 20240311173508.png",
+    "写真/Pasted image 20240311173559.png",
+    "写真/Pasted image 20240305153233.png",
+    "写真/Pasted image 20240311173027.png"
+  ]
+}

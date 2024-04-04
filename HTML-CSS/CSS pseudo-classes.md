@@ -1,0 +1,5 @@
+- :root
+- :hover: di chuột vào
+- :active: bấm và giữ chuột
+- :first-child
+- :last-child

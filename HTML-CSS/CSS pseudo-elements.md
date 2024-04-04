@@ -1,0 +1,5 @@
+- ::before
+- ::after
+- ::first-letter: cho ký tự đầu tiên
+- ::first-line: cho dòng đầu tiên
+- ::selection: bôi đen

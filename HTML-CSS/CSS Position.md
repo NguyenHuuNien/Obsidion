@@ -1,0 +1,4 @@
+- Relative
+- Absolute
+- Fixed
+- Sticky

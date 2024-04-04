@@ -1,0 +1,11 @@
+{
+  "accentColor": "#19d775",
+  "cssTheme": "Minimal",
+  "translucency": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "Comic Sans MS",
+  "theme": "moonstone",
+  "textFontFamily": "Arial",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true
+}
