@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## Việc cần làm
 
 - [ ] Animation selected
-- [ ] Cho gà ăn
 - [ ] Đói / Khát
 - [ ] Save - Load
 - [ ] Thuyền
@@ -17,9 +16,7 @@ kanban-plugin: basic
 
 ## Đang làm
 
-- [ ] Chicken xxx
 - [ ] Tăng máu(trị thương) cho gà
-- [ ] Thêm script Egg chicken - Asset Egg
 
 
 ## Tạm dừng
@@ -29,6 +26,9 @@ kanban-plugin: basic
 ## Hoàn thành
 
 **Complete**
+- [x] Cho gà ăn
+- [x] Chicken xxx
+- [x] Thêm script Egg chicken - Asset Egg
 - [x] Icon follow Mouse
 - [x] Open info of chicken
 - [x] Thịt gà

@@ -1,0 +1,3 @@
+- align: căn chỉnh
+- justify: biện minh, bào chữa, biện hộ
+- section: phần
