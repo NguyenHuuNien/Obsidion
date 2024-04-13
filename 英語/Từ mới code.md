@@ -1,3 +1,5 @@
 - align: căn chỉnh
 - justify: biện minh, bào chữa, biện hộ
 - section: phần
+- opacity: độ mờ
+- cursor: con trỏ

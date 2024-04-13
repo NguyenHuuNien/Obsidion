@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日記/10-04-2024.md",
+                "file": "英語/Từ mới code.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日記/10-04-2024.md",
+                "file": "英語/Từ mới code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日記/10-04-2024.md",
+                "file": "英語/Từ mới code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日記/10-04-2024.md"
+                "file": "英語/Từ mới code.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0f1a31e3b4f861eb",
   "lastOpenFiles": [
-    "HTML-CSS/CSS pseudo-elements.md",
+    "英語/Từ Vựng.md",
     "日記/10-04-2024.md",
+    "HTML-CSS/CSS pseudo-elements.md",
     "HTML-CSS/CSS pseudo-classes.md",
     "HTML-CSS/CSS VN.md",
     "英語/Từ mới code.md",
@@ -160,7 +161,6 @@
     "HTML-CSS/Attribute.md",
     "仕事をしたい.md",
     "Game_LongTrai/CongViecCanLam.md",
-    "英語/Từ Vựng.md",
     "英語/Kotoba.md",
     "Game_LongTrai/Documention.md",
     "写真/Pasted image 20240406122611.png",
