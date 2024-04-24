@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML-CSS/HTML VN.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d324097564d9652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Code hien thi.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nanika.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbfc68c76a084483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kịch bản xxx.md",
+                "file": "日本語/Ghi chép BTVN/Dịch bài đọc 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "e0473b86fcd83b1a",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kịch bản xxx.md",
+                "file": "Flutter/Code hien thi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kịch bản xxx.md",
+                "file": "Flutter/Code hien thi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kịch bản xxx.md"
+                "file": "Flutter/Code hien thi.md"
               }
             }
           }
@@ -184,18 +183,22 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "cbfc68c76a084483",
+  "active": "9d324097564d9652",
   "lastOpenFiles": [
-    "nanika.md",
+    "README.md",
+    "Flutter/Code hien thi.md",
+    "Flutter",
+    "HTML-CSS/HTML VN.md",
     "kịch bản xxx.md",
+    "日本語/Ghi chép BTVN/Dịch bài đọc 1.md",
+    "日本語/300新し言葉/体：からだ.md",
+    "nanika.md",
     "日本語/Ghi chép BTVN/BTVN BÀI 1 BUỔI 1.md",
     "Pasted image 20240416222131.png",
     "Kỹ thuật phần mềm/Buổi 1.md",
     "日本語/Ghi chép BTVN",
-    "HTML-CSS/HTML VN.md",
     "Kỹ thuật phần mềm",
     "HTML-CSS/CSS.md",
-    "README.md",
     "HTML-CSS/大学で勉強",
     "Pasted image 20240415192727.png",
     "Pasted image 20240415191416.png",
@@ -218,9 +221,6 @@
     "英語/Unit 4.md",
     "英語/Unit5.md",
     "英語/Từ mới code.md",
-    "英語/Từ Vựng.md",
-    "HTML-CSS/CSS pseudo-elements.md",
-    "HTML-CSS/CSS pseudo-classes.md",
     "写真/Pasted image 20240406122611.png",
     "写真/Pasted image 20240406121339.png",
     "写真/Pasted image 20240406115734.png",
@@ -231,7 +231,6 @@
     "日本語/耳から覚える/言葉",
     "日本語/耳から覚える",
     "日記/20/03",
-    "日記/20",
     "Chưa đặt tên.canvas"
   ]
 }
