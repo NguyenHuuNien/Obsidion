@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日本語/Ghi chép BTVN/Dịch Honbun 2.md",
+                "file": "Điện toán đám mây/Buổi 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4955e19003f4327a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nháp/Agile Scrum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/Ghi chép BTVN/Dịch Honbun 2.md",
+                "file": "Nháp/Agile Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日本語/Ghi chép BTVN/Dịch Honbun 2.md",
+                "file": "Nháp/Agile Scrum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日本語/Ghi chép BTVN/Dịch Honbun 2.md"
+                "file": "Nháp/Agile Scrum.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "3bb1cc9dd5125026",
+  "active": "4955e19003f4327a",
   "lastOpenFiles": [
     "Điện toán đám mây/Buổi 1.md",
+    "Nháp/Agile Scrum.md",
+    "Nháp",
     "日本語/Ghi chép BTVN/Dịch Honbun 2.md",
     "Kỹ thuật phần mềm/Buổi 1.md",
     "README.md",
@@ -184,7 +199,6 @@
     "英語/Kotoba.md",
     "英語/Mattome.md",
     "英語/P2 bunka to nihonjin.md",
-    "英語/Unit 4.md",
     "写真/Pasted image 20240406122611.png",
     "写真/Pasted image 20240406121339.png",
     "写真/Pasted image 20240406115734.png",
@@ -193,7 +207,6 @@
     "Game_LongTrai",
     "日本語/耳から覚える/文法",
     "日本語/耳から覚える/言葉",
-    "日本語/耳から覚える",
     "Chưa đặt tên.canvas"
   ]
 }
